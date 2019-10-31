@@ -1,7 +1,27 @@
 body{
-    background-image: url("/assets/images/beige-tiles.png");
- /*   background-color: aqua;*/
+    background-image: url("beige-tiles.png");
+    border-bottom: 6px green;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+h1{
+    background-color: #4aaaa5;
+    color: white;
 }
 h2{
-    color: brown;
+    color: #4aaaa5;
+}
+p{
+    color:#777777;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
 }
