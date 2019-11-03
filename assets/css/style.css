@@ -35,7 +35,7 @@ h1{
     clear:left;
     height:700px;
     width:100%;
-    background-image: url(beige-tiles.png);
+    background-image: url('../images/beige-tiles.png');
 
 }
 .content{
